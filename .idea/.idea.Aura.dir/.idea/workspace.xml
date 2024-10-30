@@ -8,20 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="738fddc3-1105-4f6e-844d-bf808e5794e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Aura.Target.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Aura/Aura.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Aura/Aura.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Aura/Private/CharacterBase.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Aura/Public/CharacterBase.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/AuraEditor.Target.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aura.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Aura.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Aura/Private/Character/CharacterBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/CharacterBase.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/CharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Character/CharacterBase.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730300846999</updated>
       <workItem from="1730300849648" duration="690000" />
-      <workItem from="1730302940080" duration="1187000" />
+      <workItem from="1730302940080" duration="2231000" />
     </task>
     <servers />
   </component>
